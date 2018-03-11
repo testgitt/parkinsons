@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/praat --open /home/sonu/voice6.praat
